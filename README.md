@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/QMS85/ProductListWithCart.git)
-- Live Site URL: [Add live site URL here](https://qms85.github.io/ProductListWithCart/)
+- Solution URL: [Product List With Cart](https://github.com/QMS85/ProductListWithCart.git)
+- Live Site URL: [Product List With Cart](https://qms85.github.io/ProductListWithCart/)
 
 ### Built with
 
